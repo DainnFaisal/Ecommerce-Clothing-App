@@ -1,0 +1,21 @@
+.nav-bar{
+    background-color: rgba(0, 0, 255, 0.589);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    display: flex;
+
+}
+.set-links{
+    text-decoration: none;
+    color: antiquewhite;
+    margin-right: 15px;
+}
+.search-bar{
+    color: black;
+}
+.search-btn{
+    border-color: antiquewhite;
+    color: black;
+    background-color: lightgray;
+}

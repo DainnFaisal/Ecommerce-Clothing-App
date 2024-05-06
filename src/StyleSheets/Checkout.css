@@ -1,0 +1,46 @@
+.checkout-heading{
+    color: rgba(0, 0, 255, 0.726);
+    font-size: 35px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.checkout{
+    background-color: lightblue;
+    padding: 20px 20px;
+    margin-right: 1%;
+    border: 2px solid rgba(0, 174, 255, 0.726);
+    border-radius: 10px;
+    margin-bottom: 2%;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 8);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.total{
+    color: rgba(0, 0, 255, 0.726);
+    font-weight: 900;
+    font-size: 30px;
+    text-align: center;
+}
+.checkout-btn {
+
+    background-color: rgba(0, 0, 255, 0.726);
+    border-color: rgba(0, 0, 255, 0.726);
+    color: antiquewhite;
+    padding: 10px 22px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    cursor: pointer;
+    border-radius: 7px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 8);
+    transition: box-shadow 0.3s ease-in-out;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.checkout-btn:hover {
+    background-color: black;
+    border-color: black;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 15px 0px #000000;
+}
